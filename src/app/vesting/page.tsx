@@ -1,5 +1,5 @@
-import CounterFeature from '@/components/vesting/counter-feature'
+import VestingFeature from '@/components/vesting/vesting-feature'
 
 export default function Page() {
-  return <CounterFeature />
+  return <VestingFeature />
 }
